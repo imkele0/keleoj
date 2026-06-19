@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: kelecodesandbox
+
+server:
+  port: 8090
+
+# 代码沙箱配置
+codesandbox:
+  auth:
+    secret: secretKey
+#spring:
+#  datasource:
+#    password: 123456
